@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ariefdarmawan8020230033\\latihan_PBO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7BE0D0-77B3-473F-9143-5C743A48C79A}|latihan_PBO.csproj|D:\\Ariefdarmawan8020230033\\latihan_PBO\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7BE0D0-77B3-473F-9143-5C743A48C79A}|latihan_PBO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7BE0D0-77B3-473F-9143-5C743A48C79A}|latihan_PBO.csproj|d:\\ariefdarmawan8020230033\\latihan_pbo\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7BE0D0-77B3-473F-9143-5C743A48C79A}|latihan_PBO.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7BE0D0-77B3-473F-9143-5C743A48C79A}|latihan_PBO.csproj|d:\\ariefdarmawan8020230033\\latihan_pbo\\penjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7BE0D0-77B3-473F-9143-5C743A48C79A}|latihan_PBO.csproj|solutionrelative:penjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7BE0D0-77B3-473F-9143-5C743A48C79A}|latihan_PBO.csproj|d:\\ariefdarmawan8020230033\\latihan_pbo\\matakuliah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7BE0D0-77B3-473F-9143-5C743A48C79A}|latihan_PBO.csproj|solutionrelative:matakuliah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7BE0D0-77B3-473F-9143-5C743A48C79A}|latihan_PBO.csproj|d:\\ariefdarmawan8020230033\\latihan_pbo\\jadwal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7BE0D0-77B3-473F-9143-5C743A48C79A}|latihan_PBO.csproj|solutionrelative:jadwal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jadwal.cs",
+              "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_PBO\\Jadwal.cs",
+              "RelativeDocumentMoniker": "Jadwal.cs",
+              "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_PBO\\Jadwal.cs",
+              "RelativeToolTip": "Jadwal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:22:34.867Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Penjualan.cs",
+              "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_PBO\\Penjualan.cs",
+              "RelativeDocumentMoniker": "Penjualan.cs",
+              "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_PBO\\Penjualan.cs",
+              "RelativeToolTip": "Penjualan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:03:22.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_PBO\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_PBO\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwCwAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T02:28:27.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MataKuliah.cs",
+              "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_PBO\\MataKuliah.cs",
+              "RelativeDocumentMoniker": "MataKuliah.cs",
+              "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_PBO\\MataKuliah.cs",
+              "RelativeToolTip": "MataKuliah.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwBYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T02:01:52.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_PBO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_PBO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:20:03.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

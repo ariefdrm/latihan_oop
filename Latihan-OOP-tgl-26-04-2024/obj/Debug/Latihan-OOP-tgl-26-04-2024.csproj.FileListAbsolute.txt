@@ -1,0 +1,14 @@
+D:\Arief-darmawan-8020230033\Latihan-OOP-tgl-26-04-2024\bin\Debug\Latihan-OOP-tgl-26-04-2024.exe.config
+D:\Arief-darmawan-8020230033\Latihan-OOP-tgl-26-04-2024\bin\Debug\Latihan-OOP-tgl-26-04-2024.exe
+D:\Arief-darmawan-8020230033\Latihan-OOP-tgl-26-04-2024\bin\Debug\Latihan-OOP-tgl-26-04-2024.pdb
+D:\Arief-darmawan-8020230033\Latihan-OOP-tgl-26-04-2024\obj\Debug\Latihan-OOP-tgl-26-04-2024.csproj.AssemblyReference.cache
+D:\Arief-darmawan-8020230033\Latihan-OOP-tgl-26-04-2024\obj\Debug\Latihan-OOP-tgl-26-04-2024.csproj.CoreCompileInputs.cache
+D:\Arief-darmawan-8020230033\Latihan-OOP-tgl-26-04-2024\obj\Debug\Latihan-OOP-tgl-26-04-2024.exe
+D:\Arief-darmawan-8020230033\Latihan-OOP-tgl-26-04-2024\obj\Debug\Latihan-OOP-tgl-26-04-2024.pdb
+E:\Latihan-OOP-tgl-26-04-2024\bin\Debug\Latihan-OOP-tgl-26-04-2024.exe.config
+E:\Latihan-OOP-tgl-26-04-2024\bin\Debug\Latihan-OOP-tgl-26-04-2024.exe
+E:\Latihan-OOP-tgl-26-04-2024\bin\Debug\Latihan-OOP-tgl-26-04-2024.pdb
+E:\Latihan-OOP-tgl-26-04-2024\obj\Debug\Latihan-OOP-tgl-26-04-2024.csproj.AssemblyReference.cache
+E:\Latihan-OOP-tgl-26-04-2024\obj\Debug\Latihan-OOP-tgl-26-04-2024.csproj.CoreCompileInputs.cache
+E:\Latihan-OOP-tgl-26-04-2024\obj\Debug\Latihan-OOP-tgl-26-04-2024.exe
+E:\Latihan-OOP-tgl-26-04-2024\obj\Debug\Latihan-OOP-tgl-26-04-2024.pdb

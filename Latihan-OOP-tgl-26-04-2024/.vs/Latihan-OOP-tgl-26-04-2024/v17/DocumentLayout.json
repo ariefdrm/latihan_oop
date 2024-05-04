@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Arief-darmawan-8020230033\\Latihan-OOP-tgl-26-04-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{281C9AE0-185E-47C5-9675-D849E9845CF6}|Latihan-OOP-tgl-26-04-2024.csproj|d:\\arief-darmawan-8020230033\\latihan-oop-tgl-26-04-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281C9AE0-185E-47C5-9675-D849E9845CF6}|Latihan-OOP-tgl-26-04-2024.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281C9AE0-185E-47C5-9675-D849E9845CF6}|Latihan-OOP-tgl-26-04-2024.csproj|d:\\arief-darmawan-8020230033\\latihan-oop-tgl-26-04-2024\\penjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281C9AE0-185E-47C5-9675-D849E9845CF6}|Latihan-OOP-tgl-26-04-2024.csproj|solutionrelative:penjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281C9AE0-185E-47C5-9675-D849E9845CF6}|Latihan-OOP-tgl-26-04-2024.csproj|d:\\arief-darmawan-8020230033\\latihan-oop-tgl-26-04-2024\\persegi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281C9AE0-185E-47C5-9675-D849E9845CF6}|Latihan-OOP-tgl-26-04-2024.csproj|solutionrelative:persegi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281C9AE0-185E-47C5-9675-D849E9845CF6}|Latihan-OOP-tgl-26-04-2024.csproj|d:\\arief-darmawan-8020230033\\latihan-oop-tgl-26-04-2024\\persegipanjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281C9AE0-185E-47C5-9675-D849E9845CF6}|Latihan-OOP-tgl-26-04-2024.csproj|solutionrelative:persegipanjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Penjualan.cs",
+              "DocumentMoniker": "D:\\Arief-darmawan-8020230033\\Latihan-OOP-tgl-26-04-2024\\Penjualan.cs",
+              "RelativeDocumentMoniker": "Penjualan.cs",
+              "ToolTip": "D:\\Arief-darmawan-8020230033\\Latihan-OOP-tgl-26-04-2024\\Penjualan.cs",
+              "RelativeToolTip": "Penjualan.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA0wCIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T02:44:19.948Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persegi.cs",
+              "DocumentMoniker": "D:\\Arief-darmawan-8020230033\\Latihan-OOP-tgl-26-04-2024\\Persegi.cs",
+              "RelativeDocumentMoniker": "Persegi.cs",
+              "ToolTip": "D:\\Arief-darmawan-8020230033\\Latihan-OOP-tgl-26-04-2024\\Persegi.cs",
+              "RelativeToolTip": "Persegi.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA3wBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T02:19:55.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arief-darmawan-8020230033\\Latihan-OOP-tgl-26-04-2024\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Arief-darmawan-8020230033\\Latihan-OOP-tgl-26-04-2024\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA/wBUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T01:47:35.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "persegipanjang.cs",
+              "DocumentMoniker": "D:\\Arief-darmawan-8020230033\\Latihan-OOP-tgl-26-04-2024\\persegipanjang.cs",
+              "RelativeDocumentMoniker": "persegipanjang.cs",
+              "ToolTip": "D:\\Arief-darmawan-8020230033\\Latihan-OOP-tgl-26-04-2024\\persegipanjang.cs",
+              "RelativeToolTip": "persegipanjang.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwB4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T01:47:41.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

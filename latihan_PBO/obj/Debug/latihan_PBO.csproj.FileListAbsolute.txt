@@ -1,0 +1,7 @@
+D:\Ariefdarmawan8020230033\latihan_PBO\bin\Debug\latihan_PBO.exe.config
+D:\Ariefdarmawan8020230033\latihan_PBO\bin\Debug\latihan_PBO.exe
+D:\Ariefdarmawan8020230033\latihan_PBO\bin\Debug\latihan_PBO.pdb
+D:\Ariefdarmawan8020230033\latihan_PBO\obj\Debug\latihan_PBO.csproj.AssemblyReference.cache
+D:\Ariefdarmawan8020230033\latihan_PBO\obj\Debug\latihan_PBO.csproj.CoreCompileInputs.cache
+D:\Ariefdarmawan8020230033\latihan_PBO\obj\Debug\latihan_PBO.exe
+D:\Ariefdarmawan8020230033\latihan_PBO\obj\Debug\latihan_PBO.pdb
