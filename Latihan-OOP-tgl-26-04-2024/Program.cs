@@ -19,10 +19,12 @@ namespace Latihan_OOP_tgl_26_04_2024
              persegi.TampilLuas();
              persegi.TampilKeliling();*/
 
-            Penjualan Dagang = new Penjualan("Ps5", 2, 8000000);
+            /*Penjualan Dagang = new Penjualan("Ps5", 2, 8000000);
             Console.WriteLine(Dagang.GetTotalHarga());
             Dagang.TotalDiskon(10);
-            Dagang.TampilDiskon();
+            Dagang.TampilDiskon();*/
+
+
 
             Console.ReadKey();
         }

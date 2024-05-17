@@ -1,0 +1,10 @@
+C:\Users\arief\Developer\latihan_oop\WindowsFormsL1\WindowsFormsL1\bin\Debug\WindowsFormsL1.exe.config
+C:\Users\arief\Developer\latihan_oop\WindowsFormsL1\WindowsFormsL1\bin\Debug\WindowsFormsL1.exe
+C:\Users\arief\Developer\latihan_oop\WindowsFormsL1\WindowsFormsL1\bin\Debug\WindowsFormsL1.pdb
+C:\Users\arief\Developer\latihan_oop\WindowsFormsL1\WindowsFormsL1\obj\Debug\WindowsFormsL1.csproj.AssemblyReference.cache
+C:\Users\arief\Developer\latihan_oop\WindowsFormsL1\WindowsFormsL1\obj\Debug\WindowsFormsL1.Form1.resources
+C:\Users\arief\Developer\latihan_oop\WindowsFormsL1\WindowsFormsL1\obj\Debug\WindowsFormsL1.Properties.Resources.resources
+C:\Users\arief\Developer\latihan_oop\WindowsFormsL1\WindowsFormsL1\obj\Debug\WindowsFormsL1.csproj.GenerateResource.cache
+C:\Users\arief\Developer\latihan_oop\WindowsFormsL1\WindowsFormsL1\obj\Debug\WindowsFormsL1.csproj.CoreCompileInputs.cache
+C:\Users\arief\Developer\latihan_oop\WindowsFormsL1\WindowsFormsL1\obj\Debug\WindowsFormsL1.exe
+C:\Users\arief\Developer\latihan_oop\WindowsFormsL1\WindowsFormsL1\obj\Debug\WindowsFormsL1.pdb
