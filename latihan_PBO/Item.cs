@@ -8,19 +8,40 @@ namespace latihan_PBO
 {
     internal class Item
     {
-        string Nama;
-        int Jumlah;
-        int Harga;
-        int Diskon;
+        private string nama;
 
-        public Item(string nama, int jumlah, int harga, int diskon=0)
+        // auto implemented property: set & get
+        public string Nama
+        {
+            set
+            {
+                if (value == "")
+                {
+                    throw new Exception("Nama tidak boleh kosong");
+                }
+            }
+            get
+            {
+                return nama;
+            }
+        }
+        public int Jumlah { set; get; }
+        public int Harga { set; get; }
+        public int Diskon { set; get; }
+
+        public Item(string nama, int jumlah, int harga, int diskon = 0)
         {
             Nama = nama;
             Jumlah = jumlah;
             Harga = harga;
             Diskon = diskon;
         }
-        
+
+        public Item()
+        {
+
+        }
+
         public int TotalHarga()
         {
             return Jumlah * Harga;
@@ -34,15 +55,15 @@ namespace latihan_PBO
         {
             return TotalHarga() - HitungTotalDiskon();
         }
-        
+
         public void TampilHarga()
         {
-           /* Console.WriteLine($"Total harga : {TotalHarga():C}");*/
-           Console.WriteLine("Total harga : " + TotalHarga().ToString());
+            /* Console.WriteLine($"Total harga : {TotalHarga():C}");*/
+            Console.WriteLine("Total harga : " + TotalHarga().ToString());
         }
         public void TampilTotalBelanja()
         {
-            Console.WriteLine("Total harga setelah diskon : " +  HitungTotalBelanja().ToString());
+            Console.WriteLine("Total harga setelah diskon : " + HitungTotalBelanja().ToString());
         }
     }
 }

@@ -33,6 +33,14 @@ namespace latihan_PBO
             itm.TampilHarga();
             itm.TampilTotalBelanja();
 
+            itm.Nama = "PS5";
+            itm.Jumlah = 0;
+            itm.Harga = 8_000_000;
+            itm.Diskon = 10;
+            itm.TotalHarga();
+            itm.TampilHarga();
+            itm.TampilTotalBelanja();
+
             Console.ReadKey();
         }
     }
