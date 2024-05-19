@@ -62,7 +62,10 @@ namespace WindowsFormsL1
                 return harga;
             }
         }
+
+        int diskon;
         public int Diskon { set; get; }
+
         public int TotalHarga { set; get; }
 
         public Item(string nama, int jumlah, int harga, int diskon = 0)
@@ -98,11 +101,11 @@ namespace WindowsFormsL1
         public void TampilHarga()
         {
             /* Console.WriteLine($"Total harga : {TotalHarga():C}");*/
-            Console.WriteLine("Total harga : " + HitungTotalHarga().ToString());
+            Console.WriteLine("Total harga : {0:N}", HitungTotalHarga().ToString());
         }
         public void TampilTotalBelanja()
         {
-            Console.WriteLine("Total harga setelah diskon : " + HitungTotalBelanja().ToString());
+            Console.WriteLine("Total harga setelah diskon : {0:N}", HitungTotalBelanja().ToString());
         }
     }
 }
