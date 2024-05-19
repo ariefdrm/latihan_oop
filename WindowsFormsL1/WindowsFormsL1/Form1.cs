@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsL1
 {
-    public partial class Form1 : Form
+    public partial class FormListPenjualan : Form
     {
-        public Form1()
+        public FormListPenjualan()
         {
             InitializeComponent();
         }
@@ -60,6 +60,11 @@ namespace WindowsFormsL1
             {
                 Simpan.PerformClick();
             }
+        }
+
+        private void txtNama_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

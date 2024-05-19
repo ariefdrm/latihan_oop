@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsL1
 {
-    partial class Form1
+    partial class FormListPenjualan
     {
         /// <summary>
         /// Required designer variable.
@@ -92,6 +92,7 @@
             this.txtNama.Name = "txtNama";
             this.txtNama.Size = new System.Drawing.Size(177, 20);
             this.txtNama.TabIndex = 5;
+            this.txtNama.TextChanged += new System.EventHandler(this.txtNama_TextChanged);
             this.txtNama.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtUserName_KeyDown);
             // 
             // txtJumlah
@@ -113,6 +114,7 @@
             // Simpan
             // 
             this.Simpan.Location = new System.Drawing.Point(91, 224);
+            this.Simpan.Margin = new System.Windows.Forms.Padding(0, 0, 0, 0);
             this.Simpan.Name = "Simpan";
             this.Simpan.Size = new System.Drawing.Size(75, 23);
             this.Simpan.TabIndex = 8;
@@ -129,7 +131,7 @@
             this.dataGridView2.Size = new System.Drawing.Size(710, 174);
             this.dataGridView2.TabIndex = 10;
             // 
-            // Form1
+            // FormListPenjualan
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -144,8 +146,9 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "FormListPenjualan";
             this.Text = "Form1";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
