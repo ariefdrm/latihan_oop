@@ -1,0 +1,7 @@
+D:\Ariefdarmawan8020230033\latihan_oop\hitung_ipk_mahasiswa\hitung_ipk_mahasiswa\bin\Debug\hitung_ipk_mahasiswa.exe.config
+D:\Ariefdarmawan8020230033\latihan_oop\hitung_ipk_mahasiswa\hitung_ipk_mahasiswa\bin\Debug\hitung_ipk_mahasiswa.exe
+D:\Ariefdarmawan8020230033\latihan_oop\hitung_ipk_mahasiswa\hitung_ipk_mahasiswa\bin\Debug\hitung_ipk_mahasiswa.pdb
+D:\Ariefdarmawan8020230033\latihan_oop\hitung_ipk_mahasiswa\hitung_ipk_mahasiswa\obj\Debug\hitung_ipk_mahasiswa.csproj.AssemblyReference.cache
+D:\Ariefdarmawan8020230033\latihan_oop\hitung_ipk_mahasiswa\hitung_ipk_mahasiswa\obj\Debug\hitung_ipk_mahasiswa.csproj.CoreCompileInputs.cache
+D:\Ariefdarmawan8020230033\latihan_oop\hitung_ipk_mahasiswa\hitung_ipk_mahasiswa\obj\Debug\hitung_ipk_mahasiswa.exe
+D:\Ariefdarmawan8020230033\latihan_oop\hitung_ipk_mahasiswa\hitung_ipk_mahasiswa\obj\Debug\hitung_ipk_mahasiswa.pdb
