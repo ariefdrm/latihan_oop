@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52921A62-5A02-4E54-9B3B-4A16E2C398F0}|CthLogin.csproj|d:\\ariefdarmawan8020230033\\latihan_oop\\cthlogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52921A62-5A02-4E54-9B3B-4A16E2C398F0}|CthLogin.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52921A62-5A02-4E54-9B3B-4A16E2C398F0}|CthLogin.csproj|D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52921A62-5A02-4E54-9B3B-4A16E2C398F0}|CthLogin.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52921A62-5A02-4E54-9B3B-4A16E2C398F0}|CthLogin.csproj|D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52921A62-5A02-4E54-9B3B-4A16E2C398F0}|CthLogin.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52921A62-5A02-4E54-9B3B-4A16E2C398F0}|CthLogin.csproj|d:\\ariefdarmawan8020230033\\latihan_oop\\cthlogin\\txtvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52921A62-5A02-4E54-9B3B-4A16E2C398F0}|CthLogin.csproj|solutionrelative:txtvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52921A62-5A02-4E54-9B3B-4A16E2C398F0}|CthLogin.csproj|d:\\ariefdarmawan8020230033\\latihan_oop\\cthlogin\\formutama.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52921A62-5A02-4E54-9B3B-4A16E2C398F0}|CthLogin.csproj|solutionrelative:formutama.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52921A62-5A02-4E54-9B3B-4A16E2C398F0}|CthLogin.csproj|d:\\ariefdarmawan8020230033\\latihan_oop\\cthlogin\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52921A62-5A02-4E54-9B3B-4A16E2C398F0}|CthLogin.csproj|solutionrelative:formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52921A62-5A02-4E54-9B3B-4A16E2C398F0}|CthLogin.csproj|d:\\ariefdarmawan8020230033\\latihan_oop\\cthlogin\\mouseindonesia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52921A62-5A02-4E54-9B3B-4A16E2C398F0}|CthLogin.csproj|solutionrelative:mouseindonesia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52921A62-5A02-4E54-9B3B-4A16E2C398F0}|CthLogin.csproj|d:\\ariefdarmawan8020230033\\latihan_oop\\cthlogin\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52921A62-5A02-4E54-9B3B-4A16E2C398F0}|CthLogin.csproj|solutionrelative:formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52921A62-5A02-4E54-9B3B-4A16E2C398F0}|CthLogin.csproj|d:\\ariefdarmawan8020230033\\latihan_oop\\cthlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52921A62-5A02-4E54-9B3B-4A16E2C398F0}|CthLogin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormUtama.Designer.cs",
+              "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\FormUtama.Designer.cs",
+              "RelativeDocumentMoniker": "FormUtama.Designer.cs",
+              "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\FormUtama.Designer.cs",
+              "RelativeToolTip": "FormUtama.Designer.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:09:09.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormUtama.cs",
+              "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\FormUtama.cs",
+              "RelativeDocumentMoniker": "FormUtama.cs",
+              "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\FormUtama.cs",
+              "RelativeToolTip": "FormUtama.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:03:47.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TxtValidation.cs",
+              "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\TxtValidation.cs",
+              "RelativeDocumentMoniker": "TxtValidation.cs",
+              "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\TxtValidation.cs",
+              "RelativeToolTip": "TxtValidation.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:50:12.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwEAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:53:22.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:52:36.429Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:05:03.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MouseIndonesia.cs",
+              "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\MouseIndonesia.cs",
+              "RelativeDocumentMoniker": "MouseIndonesia.cs",
+              "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\MouseIndonesia.cs",
+              "RelativeToolTip": "MouseIndonesia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:10:42.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormUtama.cs [Design]",
+              "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\FormUtama.cs",
+              "RelativeDocumentMoniker": "FormUtama.cs",
+              "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\FormUtama.cs [Design]",
+              "RelativeToolTip": "FormUtama.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:10:34.189Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_oop\\CthLogin\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:53:30.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
