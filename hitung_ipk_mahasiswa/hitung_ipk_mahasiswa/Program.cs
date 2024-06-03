@@ -11,12 +11,12 @@ namespace hitung_ipk_mahasiswa
         static void Main(string[] args)
         {
             string[] Name = new string[3];
-            string[,] MataKuliah = new string[3, 3];
-            int[,] Sks = new int[3, 3];
-            double[,] Nilai = new double[3, 3];
-            string[,] Huruf = new string[3, 3];
-            double[,] Bobot = new double[3, 3];
-            double[,] Kredit = new double[3, 3];
+            string[,] MataKuliah = new string[3, 2];
+            int[,] Sks = new int[3, 2];
+            double[,] Nilai = new double[3, 2];
+            string[,] Huruf = new string[3, 2];
+            double[,] Bobot = new double[3, 2];
+            double[,] Kredit = new double[3, 2];
             double[] TSks = new double[3];
             double[] TKredit = new double[3];
             double[] Ip = new double[3];
@@ -41,24 +41,36 @@ namespace hitung_ipk_mahasiswa
                     Console.Write("Nilai : ");
                     Nilai[x, y] = double.Parse(Console.ReadLine());
 
+
+                }
+            }
+
+            for (int x = 0; x < 3; x++)
+            {
+                for (int y = 0; y < 2; y++)
+                {
                     // nilai huruf && nilai bobot
                     if (Nilai[x, y] >= 80)
                     {
                         Huruf[x, y] = "A";
                         Bobot[x, y] = 4;
-                    } else if (Nilai[x, y] >= 75)
+                    }
+                    else if (Nilai[x, y] >= 75)
                     {
                         Huruf[x, y] = "B+";
-                        Bobot[x, y] = 3.5; 
-                    } else if (Nilai[x, y] >= 70)
+                        Bobot[x, y] = 3.5;
+                    }
+                    else if (Nilai[x, y] >= 70)
                     {
                         Huruf[x, y] = "B";
                         Bobot[x, y] = 3;
-                    } else if (Nilai[x, y] >= 65)
+                    }
+                    else if (Nilai[x, y] >= 65)
                     {
                         Huruf[x, y] = "C+";
                         Bobot[x, y] = 2.5;
-                    } else if (Nilai[x, y] >= 60)
+                    }
+                    else if (Nilai[x, y] >= 60)
                     {
                         Huruf[x, y] = "C";
                         Bobot[x, y] = 2;
@@ -67,30 +79,36 @@ namespace hitung_ipk_mahasiswa
                     // hitung kredit
                     Kredit[x, y] = Sks[x, y] * Bobot[x, y];
 
+                    // total kredit
+                    TKredit[x] = TKredit[x] + Kredit[x, y];
+
                     // total sks
                     TSks[x] = TSks[x] + Sks[x, y];
 
-                    // total kredit
-                    TKredit[x] += Kredit[x, y];
-
-                    // hitung ip
-                    Ip[x] = TSks[x] / TKredit[x];
                 }
+                // hitung ip
+                /*Ip[x] = TSks[x] / TKredit[x];*/
+                Ip[x] = TKredit[x] / TSks[x];
             }
 
+
             Console.Clear();
-            for(int x = 0; x < 3; x++)
+            for (int x = 0; x < 3; x++)
             {
-                for(int y = 0; x < 3; y++)
+                Console.Write("Nama :{0}", Name[x]);
+                Console.WriteLine();
+
+                // tampil data
+                Console.WriteLine("=================================================");
+                Console.WriteLine("MataKuliah           Sks Nilai Huruf Bobot Kredit");
+                Console.WriteLine("=================================================");
+                for (int y = 0; y < 2; y++)
                 {
-                    // tampil data
-                    Console.Write("Nama :{0}", Name[x]);
-                    Console.WriteLine();
-                    Console.WriteLine("=================================================");
-                    Console.WriteLine("MataKuliah           Sks Nilai Huruf Bobot Kredit");
-                    Console.WriteLine("=================================================");
-                    Console.WriteLine("{0, -21} {1, 22} {2,25} {3, 31}", MataKuliah[x,y] , Sks[x, y], Nilai[x, y], Huruf[x, y]);
+                    Console.WriteLine("{0, -17} {1, 5} {2, 4} {3, 5} {4, 5} {5, 6}", MataKuliah[x, y], Sks[x, y], Nilai[x, y], Huruf[x, y], Bobot[x, y], Kredit[x, y]);
                 }
+                Console.WriteLine("=================================================");
+                Console.WriteLine(Ip[x]);
+                Console.WriteLine();
             }
 
             Console.ReadKey();
