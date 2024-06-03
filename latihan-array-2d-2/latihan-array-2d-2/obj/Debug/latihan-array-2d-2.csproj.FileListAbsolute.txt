@@ -1,0 +1,7 @@
+C:\Users\arief\Developer\latihan_oop\latihan-array-2d-2\latihan-array-2d-2\bin\Debug\latihan-array-2d-2.exe.config
+C:\Users\arief\Developer\latihan_oop\latihan-array-2d-2\latihan-array-2d-2\bin\Debug\latihan-array-2d-2.exe
+C:\Users\arief\Developer\latihan_oop\latihan-array-2d-2\latihan-array-2d-2\bin\Debug\latihan-array-2d-2.pdb
+C:\Users\arief\Developer\latihan_oop\latihan-array-2d-2\latihan-array-2d-2\obj\Debug\latihan-array-2d-2.csproj.AssemblyReference.cache
+C:\Users\arief\Developer\latihan_oop\latihan-array-2d-2\latihan-array-2d-2\obj\Debug\latihan-array-2d-2.csproj.CoreCompileInputs.cache
+C:\Users\arief\Developer\latihan_oop\latihan-array-2d-2\latihan-array-2d-2\obj\Debug\latihan-array-2d-2.exe
+C:\Users\arief\Developer\latihan_oop\latihan-array-2d-2\latihan-array-2d-2\obj\Debug\latihan-array-2d-2.pdb
