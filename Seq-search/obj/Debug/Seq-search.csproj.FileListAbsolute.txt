@@ -1,0 +1,7 @@
+D:\Ariefdarmawan8020230033\latihan_oop\Seq-search\bin\Debug\Seq-search.exe.config
+D:\Ariefdarmawan8020230033\latihan_oop\Seq-search\bin\Debug\Seq-search.exe
+D:\Ariefdarmawan8020230033\latihan_oop\Seq-search\bin\Debug\Seq-search.pdb
+D:\Ariefdarmawan8020230033\latihan_oop\Seq-search\obj\Debug\Seq-search.csproj.AssemblyReference.cache
+D:\Ariefdarmawan8020230033\latihan_oop\Seq-search\obj\Debug\Seq-search.csproj.CoreCompileInputs.cache
+D:\Ariefdarmawan8020230033\latihan_oop\Seq-search\obj\Debug\Seq-search.exe
+D:\Ariefdarmawan8020230033\latihan_oop\Seq-search\obj\Debug\Seq-search.pdb
