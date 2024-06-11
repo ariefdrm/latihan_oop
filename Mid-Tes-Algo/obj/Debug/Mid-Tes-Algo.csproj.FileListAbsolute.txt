@@ -1,0 +1,7 @@
+D:\Ariefdarmawan8020230033\latihan_oop\Mid-Tes-Algo\bin\Debug\Mid-Tes-Algo.exe.config
+D:\Ariefdarmawan8020230033\latihan_oop\Mid-Tes-Algo\bin\Debug\Mid-Tes-Algo.exe
+D:\Ariefdarmawan8020230033\latihan_oop\Mid-Tes-Algo\bin\Debug\Mid-Tes-Algo.pdb
+D:\Ariefdarmawan8020230033\latihan_oop\Mid-Tes-Algo\obj\Debug\Mid-Tes-Algo.csproj.AssemblyReference.cache
+D:\Ariefdarmawan8020230033\latihan_oop\Mid-Tes-Algo\obj\Debug\Mid-Tes-Algo.csproj.CoreCompileInputs.cache
+D:\Ariefdarmawan8020230033\latihan_oop\Mid-Tes-Algo\obj\Debug\Mid-Tes-Algo.exe
+D:\Ariefdarmawan8020230033\latihan_oop\Mid-Tes-Algo\obj\Debug\Mid-Tes-Algo.pdb
