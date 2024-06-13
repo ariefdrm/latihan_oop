@@ -1,0 +1,7 @@
+D:\Ariefdarmawan8020230033\latihan_oop\Binary-search\bin\Debug\Binary-search.exe.config
+D:\Ariefdarmawan8020230033\latihan_oop\Binary-search\bin\Debug\Binary-search.exe
+D:\Ariefdarmawan8020230033\latihan_oop\Binary-search\bin\Debug\Binary-search.pdb
+D:\Ariefdarmawan8020230033\latihan_oop\Binary-search\obj\Debug\Binary-search.csproj.AssemblyReference.cache
+D:\Ariefdarmawan8020230033\latihan_oop\Binary-search\obj\Debug\Binary-search.csproj.CoreCompileInputs.cache
+D:\Ariefdarmawan8020230033\latihan_oop\Binary-search\obj\Debug\Binary-search.exe
+D:\Ariefdarmawan8020230033\latihan_oop\Binary-search\obj\Debug\Binary-search.pdb

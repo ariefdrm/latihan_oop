@@ -10,7 +10,8 @@ namespace Mid_Tes_Algo
     {
         static void Main(string[] args)
         {
-            string[,] hari = new string[2, 5]; 
+            // string[,] hari = new string[2, 5]; 
+            string[] Hari = { "Senin", "Selasa", "Rabu", "Kamis", "Jum'at" };
             string[] Nama = new string[2];
             double[,] JHP = new double[2, 5];
             double[,] Up = new double[2, 5];
@@ -20,15 +21,16 @@ namespace Mid_Tes_Algo
 
             for (int i = 0; i < 2; i++)
             {
-                
+                Console.WriteLine();
                 Console.Write("Nama : {0}", Nama[i]);
                 Nama[i] = Console.ReadLine();
                 Console.WriteLine();
                 for (int j = 0; j < 5; j++)
                 {
-                    // input hari 
+                   /* // input hari 
                     Console.Write("Hari : ");
-                    hari[i, j] = Console.ReadLine();
+                    hari[i, j] = Console.ReadLine();*/
+                   Console.Write("{0} \n", Hari[j]);
                     
                     // input jumlah hasil panen
                     Console.Write("Jumlah hasil panen : ");
@@ -71,7 +73,7 @@ namespace Mid_Tes_Algo
 
                 for (int j = 0;j < 5;j++)
                 {
-                    Console.WriteLine("{0, -9} {1, 12} {2, 20} {3, 7} {4, 10}", hari[i, j], JHP[i, j], Up[i, j], Bonus[i, j], TotalUpah[i, j]);
+                    Console.WriteLine("{0, -9} {1, 12} {2, 20} {3, 7} {4, 10}", /*hari[i, j]*/ Hari[j], JHP[i, j], Up[i, j], Bonus[i, j], TotalUpah[i, j]);
                 }
                 Console.WriteLine("=================================================================");
                 Console.Write("Total  : {0, 55} \n", JumlahTotalUpah[i]);
