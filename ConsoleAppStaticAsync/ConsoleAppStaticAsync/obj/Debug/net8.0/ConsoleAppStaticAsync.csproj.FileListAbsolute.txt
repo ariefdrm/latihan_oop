@@ -1,0 +1,15 @@
+C:\Users\arief\Developer\latihan_oop\ConsoleAppStaticAsync\ConsoleAppStaticAsync\bin\Debug\net8.0\ConsoleAppStaticAsync.exe
+C:\Users\arief\Developer\latihan_oop\ConsoleAppStaticAsync\ConsoleAppStaticAsync\bin\Debug\net8.0\ConsoleAppStaticAsync.deps.json
+C:\Users\arief\Developer\latihan_oop\ConsoleAppStaticAsync\ConsoleAppStaticAsync\bin\Debug\net8.0\ConsoleAppStaticAsync.runtimeconfig.json
+C:\Users\arief\Developer\latihan_oop\ConsoleAppStaticAsync\ConsoleAppStaticAsync\bin\Debug\net8.0\ConsoleAppStaticAsync.dll
+C:\Users\arief\Developer\latihan_oop\ConsoleAppStaticAsync\ConsoleAppStaticAsync\bin\Debug\net8.0\ConsoleAppStaticAsync.pdb
+C:\Users\arief\Developer\latihan_oop\ConsoleAppStaticAsync\ConsoleAppStaticAsync\obj\Debug\net8.0\ConsoleAppStaticAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arief\Developer\latihan_oop\ConsoleAppStaticAsync\ConsoleAppStaticAsync\obj\Debug\net8.0\ConsoleAppStaticAsync.AssemblyInfoInputs.cache
+C:\Users\arief\Developer\latihan_oop\ConsoleAppStaticAsync\ConsoleAppStaticAsync\obj\Debug\net8.0\ConsoleAppStaticAsync.AssemblyInfo.cs
+C:\Users\arief\Developer\latihan_oop\ConsoleAppStaticAsync\ConsoleAppStaticAsync\obj\Debug\net8.0\ConsoleAppStaticAsync.csproj.CoreCompileInputs.cache
+C:\Users\arief\Developer\latihan_oop\ConsoleAppStaticAsync\ConsoleAppStaticAsync\obj\Debug\net8.0\ConsoleAppStaticAsync.sourcelink.json
+C:\Users\arief\Developer\latihan_oop\ConsoleAppStaticAsync\ConsoleAppStaticAsync\obj\Debug\net8.0\ConsoleAppStaticAsync.dll
+C:\Users\arief\Developer\latihan_oop\ConsoleAppStaticAsync\ConsoleAppStaticAsync\obj\Debug\net8.0\refint\ConsoleAppStaticAsync.dll
+C:\Users\arief\Developer\latihan_oop\ConsoleAppStaticAsync\ConsoleAppStaticAsync\obj\Debug\net8.0\ConsoleAppStaticAsync.pdb
+C:\Users\arief\Developer\latihan_oop\ConsoleAppStaticAsync\ConsoleAppStaticAsync\obj\Debug\net8.0\ConsoleAppStaticAsync.genruntimeconfig.cache
+C:\Users\arief\Developer\latihan_oop\ConsoleAppStaticAsync\ConsoleAppStaticAsync\obj\Debug\net8.0\ref\ConsoleAppStaticAsync.dll

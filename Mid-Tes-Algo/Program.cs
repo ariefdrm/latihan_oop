@@ -27,27 +27,28 @@ namespace Mid_Tes_Algo
                 Console.WriteLine();
                 for (int j = 0; j < 5; j++)
                 {
-                   /* // input hari 
-                    Console.Write("Hari : ");
-                    hari[i, j] = Console.ReadLine();*/
-                   Console.Write("{0} \n", Hari[j]);
-                    
+                    /* // input hari 
+                     Console.Write("Hari : ");
+                     hari[i, j] = Console.ReadLine();*/
+                    Console.Write("Hari : {0} \n", Hari[j]);
+
                     // input jumlah hasil panen
                     Console.Write("Jumlah hasil panen : ");
                     JHP[i, j] = double.Parse(Console.ReadLine());
                 }
             }
 
-            for (int i = 0; i < 2;i++)
+            for (int i = 0; i < 2; i++)
             {
-                for (int j = 0; j < 5; j++)     
-                {   
+                for (int j = 0; j < 5; j++)
+                {
                     if (JHP[i, j] >= 2000)
                     {
                         Bonus[i, j] = 100;
                         // menghitung total bonus
                         Bonus[i, j] = (JHP[i, j] - 2000) * 100;
-                    } else
+                    }
+                    else
                     {
                         Bonus[i, j] = 0;
                     }
@@ -64,19 +65,20 @@ namespace Mid_Tes_Algo
             }
 
             Console.Clear();
-            for (int i = 0; i < 2;i++)
+            for (int i = 0; i < 2; i++)
             {
                 Console.WriteLine("Nama : {0}", Nama[i]);
                 Console.WriteLine("=================================================================");
                 Console.WriteLine("Hari      Jumlah Hasil Panen (KG)  Upah Panen  Bonus  Total Bonus");
                 Console.WriteLine("=================================================================");
 
-                for (int j = 0;j < 5;j++)
+                for (int j = 0; j < 5; j++)
                 {
                     Console.WriteLine("{0, -9} {1, 12} {2, 20} {3, 7} {4, 10}", /*hari[i, j]*/ Hari[j], JHP[i, j], Up[i, j], Bonus[i, j], TotalUpah[i, j]);
                 }
                 Console.WriteLine("=================================================================");
                 Console.Write("Total  : {0, 55} \n", JumlahTotalUpah[i]);
+                Console.WriteLine();
             }
 
             Console.ReadKey();

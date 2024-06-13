@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CthLogin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4614b33eb9323101d8955be8feafc32e57e46864")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e75857e83c0ed8fd4c366fe1b489a5639ff5835")]
 [assembly: System.Reflection.AssemblyProductAttribute("CthLogin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CthLogin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
