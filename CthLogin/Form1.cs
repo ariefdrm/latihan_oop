@@ -1,3 +1,5 @@
+using CthLogin.Interface;
+
 namespace CthLogin
 {
     public partial class Form1 : Form
@@ -33,13 +35,22 @@ namespace CthLogin
 
         private void txtUsername_KeyDown(object sender, KeyEventArgs e)
         {
-           TxtValidation.txtValidation(e, txtUsername, txtPassword);
+            TxtValidation.txtValidation(e, txtUsername, txtPassword);
         }
 
         private void txtPassword_KeyDown(object sender, KeyEventArgs e)
         {
-            if(e.KeyCode == Keys.Enter)
+            if (e.KeyCode == Keys.Enter)
                 BtnLogin.PerformClick();
+        }
+
+        private void btnClick_Click(object sender, EventArgs e)
+        {
+            LogitechMouse mouse = new LogitechMouse();
+            MouseIndonesia mouseIndonesia = new MouseIndonesia();
+            laptop laptop = new laptop();
+            laptop.SetMouse(mouseIndonesia);
+            MessageBox.Show(laptop.OnRightClick());
         }
     }
 }

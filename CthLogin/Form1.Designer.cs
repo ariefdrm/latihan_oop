@@ -33,6 +33,7 @@
             txtUsername = new TextBox();
             Password = new Label();
             label2 = new Label();
+            btnClick = new Button();
             SuspendLayout();
             // 
             // BtnLogin
@@ -83,12 +84,23 @@
             label2.TabIndex = 4;
             label2.Text = "Username";
             // 
+            // btnClick
+            // 
+            btnClick.Location = new Point(451, 245);
+            btnClick.Name = "btnClick";
+            btnClick.Size = new Size(75, 23);
+            btnClick.TabIndex = 5;
+            btnClick.Text = "klik";
+            btnClick.UseVisualStyleBackColor = true;
+            btnClick.Click += btnClick_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.AppWorkspace;
             ClientSize = new Size(633, 339);
+            Controls.Add(btnClick);
             Controls.Add(label2);
             Controls.Add(Password);
             Controls.Add(txtUsername);
@@ -107,5 +119,6 @@
         private TextBox txtUsername;
         private Label Password;
         private Label label2;
+        private Button btnClick;
     }
 }
