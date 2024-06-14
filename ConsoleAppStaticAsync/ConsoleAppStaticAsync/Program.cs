@@ -3,23 +3,43 @@
 
 
 using ConsoleAppStaticAsync;
+using System.Runtime.InteropServices;
 
-int hasil = hitung.tambah(10, 20);
-Console.WriteLine(hasil);
-
-Console.WriteLine("Job 1 Ok");
-Reqres.GetData();
-Job3();
-Console.ReadKey();
-
-async void Job2()
+namespace ConsoleNetApp
 {
-    await Task.Delay(5000);
-    Console.WriteLine("Job 2 Ok");
-}
+    class Program
+    {
+        // Contoh cara pakai asynchronous
+        static async Task Job2()
+        {
+            await Task.Delay(5000);
+            Console.WriteLine("Job 2 Ok");
+        }
+        static void Job2Sync()
+        {
+            
+        }
 
-void Job3()
-{
-    Console.WriteLine("Job 3 Ok");
-}
+        void Job3()
+        {
+            Console.WriteLine("Job 3 Ok");
+        }
+        static void Main(string[] args)
+        {
+           /* int hasil;
+            hasil = hitung.tambah(10, 20);
+            Console.WriteLine("Hasil tambah : " + hasil);
 
+            hasil = hitung.kurang(50, 20);
+            Console.WriteLine("hasil kurang : " + hasil);*/
+
+            Program program = new Program();
+
+            Console.WriteLine("Job 1 Ok");
+            // Reqres.GetData();
+            Job2();
+            program.Job3();
+            Console.ReadKey();
+        }
+    }
+}
