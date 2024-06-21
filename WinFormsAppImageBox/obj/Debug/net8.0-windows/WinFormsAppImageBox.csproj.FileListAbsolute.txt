@@ -19,3 +19,4 @@ D:\Ariefdarmawan8020230033\latihan_oop\WinFormsAppImageBox\bin\Debug\net8.0-wind
 D:\Ariefdarmawan8020230033\latihan_oop\WinFormsAppImageBox\obj\Debug\net8.0-windows\WinFormsAppImageBox.csproj.AssemblyReference.cache
 D:\Ariefdarmawan8020230033\latihan_oop\WinFormsAppImageBox\obj\Debug\net8.0-windows\WinForms.C9141C33.Up2Date
 D:\Ariefdarmawan8020230033\latihan_oop\WinFormsAppImageBox\obj\Debug\net8.0-windows\WinFormsAppImageBox.Form2.resources
+D:\Ariefdarmawan8020230033\latihan_oop\WinFormsAppImageBox\obj\Debug\net8.0-windows\WinFormsAppImageBox.FormMahasiswa.resources

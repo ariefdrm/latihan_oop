@@ -12,7 +12,8 @@ namespace WinFormsAppImageBox
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             // Application.Run(new Form1());
-            Application.Run(new Form2());
+            // Application.Run(new Form2());
+            Application.Run(new FormMahasiswa());
         }
     }
 }
