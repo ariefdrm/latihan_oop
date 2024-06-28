@@ -1,0 +1,11 @@
+D:\Ariefdarmawan8020230033\latihan_oop\WinFormsAppImageBox\obj\Debug\net8.0-windows\WinFormsAppImageBox.csproj.AssemblyReference.cache
+D:\Ariefdarmawan8020230033\latihan_oop\WinFormsAppImageBox\obj\Debug\net8.0-windows\WinFormsAppImageBox.Form1.resources
+D:\Ariefdarmawan8020230033\latihan_oop\WinFormsAppImageBox\obj\Debug\net8.0-windows\WinFormsAppImageBox.Form2.resources
+D:\Ariefdarmawan8020230033\latihan_oop\WinFormsAppImageBox\obj\Debug\net8.0-windows\WinFormsAppImageBox.FormMahasiswa.resources
+D:\Ariefdarmawan8020230033\latihan_oop\WinFormsAppImageBox\obj\Debug\net8.0-windows\WinFormsAppImageBox.FormTambah.resources
+D:\Ariefdarmawan8020230033\latihan_oop\WinFormsAppImageBox\obj\Debug\net8.0-windows\WinFormsAppImageBox.csproj.GenerateResource.cache
+D:\Ariefdarmawan8020230033\latihan_oop\WinFormsAppImageBox\obj\Debug\net8.0-windows\WinFormsAppImageBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ariefdarmawan8020230033\latihan_oop\WinFormsAppImageBox\obj\Debug\net8.0-windows\WinFormsAppImageBox.AssemblyInfoInputs.cache
+D:\Ariefdarmawan8020230033\latihan_oop\WinFormsAppImageBox\obj\Debug\net8.0-windows\WinFormsAppImageBox.AssemblyInfo.cs
+D:\Ariefdarmawan8020230033\latihan_oop\WinFormsAppImageBox\obj\Debug\net8.0-windows\WinFormsAppImageBox.csproj.CoreCompileInputs.cache
+D:\Ariefdarmawan8020230033\latihan_oop\WinFormsAppImageBox\obj\Debug\net8.0-windows\WinFormsAppImageBox.sourcelink.json

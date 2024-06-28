@@ -1,0 +1,9 @@
+D:\Ariefdarmawan8020230033\latihan_oop\FormTambah\obj\Release\net8.0-windows\FormTambah.csproj.AssemblyReference.cache
+D:\Ariefdarmawan8020230033\latihan_oop\FormTambah\obj\Release\net8.0-windows\FormTambah.Form1.resources
+D:\Ariefdarmawan8020230033\latihan_oop\FormTambah\obj\Release\net8.0-windows\WinFormsAppImageBox.FormMahasiswa.resources
+D:\Ariefdarmawan8020230033\latihan_oop\FormTambah\obj\Release\net8.0-windows\FormTambah.csproj.GenerateResource.cache
+D:\Ariefdarmawan8020230033\latihan_oop\FormTambah\obj\Release\net8.0-windows\FormTambah.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ariefdarmawan8020230033\latihan_oop\FormTambah\obj\Release\net8.0-windows\FormTambah.AssemblyInfoInputs.cache
+D:\Ariefdarmawan8020230033\latihan_oop\FormTambah\obj\Release\net8.0-windows\FormTambah.AssemblyInfo.cs
+D:\Ariefdarmawan8020230033\latihan_oop\FormTambah\obj\Release\net8.0-windows\FormTambah.csproj.CoreCompileInputs.cache
+D:\Ariefdarmawan8020230033\latihan_oop\FormTambah\obj\Release\net8.0-windows\FormTambah.sourcelink.json

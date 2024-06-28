@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppStaticAsync")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e75857e83c0ed8fd4c366fe1b489a5639ff5835")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccb9e12fae7dcec19f8e2dd491b96166d6e324ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppStaticAsync")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppStaticAsync")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
