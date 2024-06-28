@@ -47,24 +47,16 @@ namespace FormTambah
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            var url = new Uri("https://belajar-api.unama.ac.id/api/mahasiswa");
-            List<mahasiswa> ListMahasiswa = [];
 
-            using (HttpClient client = new HttpClient())
-            {
-                var request = client.GetAsync(url).GetAwaiter().GetResult();
-                var responString = request.Content?.ReadAsStringAsync().Result;
-                mahasiswa mahasiswa = JsonConvert.DeserializeObject<mahasiswa>(responString);
-
-
-                var responJson = JObject.Parse(responString);
-                var data = responJson["data"];
-                ListMahasiswa = JsonConvert.DeserializeObject<List<mahasiswa>>(data.ToString());
-                dataGridView1.DataSource = ListMahasiswa;
-            }
+            this.datagridviewtampil();
         }
 
         private void btnRefresh_Click(object sender, EventArgs e)
+        {
+            this.datagridviewtampil();
+        }
+
+        public void datagridviewtampil()
         {
             var url = new Uri("https://belajar-api.unama.ac.id/api/mahasiswa");
             List<mahasiswa> ListMahasiswa = [];
