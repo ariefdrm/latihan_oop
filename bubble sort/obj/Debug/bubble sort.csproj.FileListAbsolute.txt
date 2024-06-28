@@ -1,0 +1,7 @@
+D:\Ariefdarmawan8020230033\latihan_oop\bubble sort\bin\Debug\bubble sort.exe.config
+D:\Ariefdarmawan8020230033\latihan_oop\bubble sort\bin\Debug\bubble sort.exe
+D:\Ariefdarmawan8020230033\latihan_oop\bubble sort\bin\Debug\bubble sort.pdb
+D:\Ariefdarmawan8020230033\latihan_oop\bubble sort\obj\Debug\bubble sort.csproj.AssemblyReference.cache
+D:\Ariefdarmawan8020230033\latihan_oop\bubble sort\obj\Debug\bubble sort.csproj.CoreCompileInputs.cache
+D:\Ariefdarmawan8020230033\latihan_oop\bubble sort\obj\Debug\bubble sort.exe
+D:\Ariefdarmawan8020230033\latihan_oop\bubble sort\obj\Debug\bubble sort.pdb
