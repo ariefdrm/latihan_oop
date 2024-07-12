@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsAppImageBox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00e2cd7cd83d40d1c10c8b9ee5d776017ee0963b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57bedec2e535814ea202970eb5707a5f4fe80f73")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinFormsAppImageBox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinFormsAppImageBox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

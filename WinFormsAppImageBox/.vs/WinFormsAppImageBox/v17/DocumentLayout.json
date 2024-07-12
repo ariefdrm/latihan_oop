@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{C1CD5B30-5B0D-49CF-B718-DC2F875D55A9}|WinFormsAppImageBox.csproj|solutionrelative:formtambah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1CD5B30-5B0D-49CF-B718-DC2F875D55A9}|WinFormsAppImageBox.csproj|d:\\ariefdarmawan8020230033\\latihan_oop\\winformsappimagebox\\formtambah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C1CD5B30-5B0D-49CF-B718-DC2F875D55A9}|WinFormsAppImageBox.csproj|D:\\Ariefdarmawan8020230033\\latihan_oop\\WinFormsAppImageBox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CD5B30-5B0D-49CF-B718-DC2F875D55A9}|WinFormsAppImageBox.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CD5B30-5B0D-49CF-B718-DC2F875D55A9}|WinFormsAppImageBox.csproj|D:\\Ariefdarmawan8020230033\\latihan_oop\\WinFormsAppImageBox\\formtambah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C1CD5B30-5B0D-49CF-B718-DC2F875D55A9}|WinFormsAppImageBox.csproj|solutionrelative:formtambah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1CD5B30-5B0D-49CF-B718-DC2F875D55A9}|WinFormsAppImageBox.csproj|D:\\Ariefdarmawan8020230033\\latihan_oop\\WinFormsAppImageBox\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1CD5B30-5B0D-49CF-B718-DC2F875D55A9}|WinFormsAppImageBox.csproj|solutionrelative:mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1CD5B30-5B0D-49CF-B718-DC2F875D55A9}|WinFormsAppImageBox.csproj|d:\\ariefdarmawan8020230033\\latihan_oop\\winformsappimagebox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1CD5B30-5B0D-49CF-B718-DC2F875D55A9}|WinFormsAppImageBox.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,13 +30,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\WinFormsAppImageBox\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_oop\\WinFormsAppImageBox\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAmwA8AAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T01:57:12.959Z",
               "EditorCaption": ""
@@ -49,14 +49,14 @@
               "RelativeDocumentMoniker": "FormTambah.cs",
               "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_oop\\WinFormsAppImageBox\\FormTambah.cs",
               "RelativeToolTip": "FormTambah.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAiwDMAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA4wDMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T01:43:57.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FormTambah.cs [Design]",
               "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\WinFormsAppImageBox\\FormTambah.cs",
               "RelativeDocumentMoniker": "FormTambah.cs",
@@ -68,13 +68,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Mahasiswa.cs",
               "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\WinFormsAppImageBox\\Mahasiswa.cs",
               "RelativeDocumentMoniker": "Mahasiswa.cs",
               "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_oop\\WinFormsAppImageBox\\Mahasiswa.cs",
               "RelativeToolTip": "Mahasiswa.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAywA0AAAAFAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAA1wA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T02:04:09.352Z",
               "EditorCaption": ""

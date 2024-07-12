@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|solutionrelative:users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|solutionrelative:users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|solutionrelative:mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|d:\\ariefdarmawan8020230033\\latihan_oop\\formtambah\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|solutionrelative:users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\formmahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|d:\\ariefdarmawan8020230033\\latihan_oop\\formtambah\\users.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\users.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|solutionrelative:users.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|solutionrelative:listusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|solutionrelative:mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CE4D2A4-BE84-4B87-ABC0-B26EBC004893}|FormTambah.csproj|D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,17 +50,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAowCoAAAARAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAkwCoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T02:03:53.169Z",
               "IsPinned": true,
@@ -68,13 +68,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "users.cs",
               "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\users.cs",
               "RelativeDocumentMoniker": "users.cs",
               "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\users.cs",
               "RelativeToolTip": "users.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAIwC0AAAAAAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAqwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T03:27:04.646Z",
               "IsPinned": true,
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "users.cs [Design]",
               "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\users.cs",
               "RelativeDocumentMoniker": "users.cs",
@@ -94,20 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBEAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T02:23:59.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FormMahasiswa.cs",
               "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\FormMahasiswa.cs",
               "RelativeDocumentMoniker": "FormMahasiswa.cs",
@@ -115,12 +102,11 @@
               "RelativeToolTip": "FormMahasiswa.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAArwFIAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T02:27:56.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T02:27:56.57Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "users.Designer.cs",
               "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\users.Designer.cs",
               "RelativeDocumentMoniker": "users.Designer.cs",
@@ -133,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ListUsers.cs",
               "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\ListUsers.cs",
               "RelativeDocumentMoniker": "ListUsers.cs",
@@ -141,12 +127,11 @@
               "RelativeToolTip": "ListUsers.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAqwAoAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T03:26:09.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T03:26:09.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -158,15 +143,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "mahasiswa.cs",
               "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\mahasiswa.cs",
               "RelativeDocumentMoniker": "mahasiswa.cs",
               "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\mahasiswa.cs",
               "RelativeToolTip": "mahasiswa.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwA4AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T02:07:28.016Z"
+              "WhenOpened": "2024-06-28T02:07:28.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Ariefdarmawan8020230033\\latihan_oop\\FormTambah\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:23:59.748Z"
             },
             {
               "$type": "Document",
