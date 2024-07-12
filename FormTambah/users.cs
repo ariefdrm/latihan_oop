@@ -40,7 +40,7 @@ namespace FormTambah
                 var request = client.GetAsync(url).GetAwaiter().GetResult();
                 var responstring = request.Content?.ReadAsStringAsync().Result;
                 ListData = JsonConvert.DeserializeObject<List<ListUsers>>(responstring);
-                dataGridView1.DataSource = ListData.OrderByDescending(users => users.id).ToList();
+                dataGridView1.DataSource = ListData.OrderByDescending(ListData => ListData.id).ToList();
             }
         }
 

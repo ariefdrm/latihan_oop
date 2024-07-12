@@ -15,7 +15,8 @@ namespace FormTambah
             ApplicationConfiguration.Initialize();
             // Application.Run(new Form1());
             // Application.Run(new FormMahasiswa());
-            Application.Run(new users());
+            // Application.Run(new users());
+            Application.Run(new TampilApi2());
         }
     }
 }

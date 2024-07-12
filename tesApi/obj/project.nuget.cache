@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fLdFDz3h3Qzq2K4rcADTtO9tGHCsk93O852XFFSFB7PMxt9e1MD41xICnuDlk1+kTYy2QfVudwdCXneznXhbCw==",
+  "success": true,
+  "projectFilePath": "D:\\Ariefdarmawan8020230033\\latihan_oop\\tesApi\\tesApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LAB-UNAMA\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
