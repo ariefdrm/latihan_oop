@@ -20,3 +20,4 @@ D:\Ariefdarmawan8020230033\latihan_oop\FormTambah\obj\Debug\net8.0-windows\FormT
 D:\Ariefdarmawan8020230033\latihan_oop\FormTambah\obj\Debug\net8.0-windows\FormTambah.genruntimeconfig.cache
 D:\Ariefdarmawan8020230033\latihan_oop\FormTambah\obj\Debug\net8.0-windows\ref\FormTambah.dll
 D:\Ariefdarmawan8020230033\latihan_oop\FormTambah\obj\Debug\net8.0-windows\FormTambah.users.resources
+D:\Ariefdarmawan8020230033\latihan_oop\FormTambah\obj\Debug\net8.0-windows\FormTambah.TampilApi2.resources

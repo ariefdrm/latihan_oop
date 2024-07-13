@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormTambah")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f65ef65a51ce2c1ba474fdd3b8635f0cdb939bfc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ce94b1556b72d2b5ed018348c77b91838593780")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormTambah")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormTambah")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
